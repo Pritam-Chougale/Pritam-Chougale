@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pritam-Chougale
-- 👀 I’m interested in Full stack web dev projects
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on projectects in full stack web dev
+- 👀 I’m interested in Data Analytics projects
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on projectects in Data analytics, AI and ML
 - 📫 How to reach me https://twitter.com/PritamChougale
 
 <!---
